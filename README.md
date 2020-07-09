@@ -332,9 +332,9 @@ serviceWorker.unregister()
 
 It create a Redux store that hold the complete state tree of the application.
 
-`reducer` - A reducer function that return the next state tree.
-`[preloadedState]` - The initial state that can be use to sync the state from the server or to restore a previous state.
-`[enhancer]` - The store enhancer to enhance the store capabilities using third-party library such as middleware, time travel, etc. The only store enhancer that ships with Redux is applyMiddleware().
+`reducer` - A reducer function that return the next state tree. <br />
+`[preloadedState]` - The initial state that can be use to sync the state from the server or to restore a previous state. <br />
+`[enhancer]` - The store enhancer to enhance the store capabilities using third-party library such as middleware, time travel, etc. The only store enhancer that ships with Redux is applyMiddleware(). <br />
 
 ### 2. Provider Tag
 
@@ -457,17 +457,17 @@ function connect(mapStateToProps?, mapDispatchToProps?, mergeProps?, options?)
 
 `mapStateToProps` is a function that will suscribe to Redux store updates. When the store is updated, this function willl be called with the latest state and finally the result from it will be merged into the wrapped component's props.
 
-`state` - The latest state form the store.
-`ownProps` (optional) - The wrapper component's props. When second parameter available to `mapStateToProps` then function will also be called when the wrapper component receives new props.
+`state` - The latest state form the store. <br />
+`ownProps` (optional) - The wrapper component's props. When second parameter available to `mapStateToProps` then function will also be called when the wrapper component receives new props. <br />
 
 ### 2. mapDispatchToProps?: object | (dispatch, ownProps?) => object
 
 `mapDispatchToProps` is a function or object contain the dispatchers or action creators required to the component. These dispatchers will dispatch an action to the store.
 
-`dispatch` - The dispatch function of the store.
+`dispatch` - The dispatch function of the store. <br />
 `ownProps` (optional) - The wrapper component's props. When second parameter available to `mapDispatchToProps` then function will also be called when the wrapper component receives new props.
 
-`Action Creator` = It is a function that creates an action. An action is a payload of information that describe what happened, and an action creator is a factory that creates an action.
+`Action Creator` - It is a function that creates an action. An action is a payload of information that describe what happened, and an action creator is a factory that creates an action.
 
 Example:
 
@@ -663,7 +663,7 @@ export default thunk
 
 As we have seen that middleware is just a piece of code that does a specific task sitting between action and reducer, we can create our own middleware.
 
-Let's create a logger for our application:
+Let's create a logger for our application.
 
 Example: In src/store/middleware/logger.js file
 
