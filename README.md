@@ -2,9 +2,9 @@
 
 <div>
   <div align="center">
-      <img align="center" width="60px" height="54px" src="./icons/react_8_60x54px.png" alt="React" />&nbsp;&nbsp;&nbsp;
+      <img align="center" width="100px" height="89px" src="./icons/react_13_100x89px.png" alt="React" />&nbsp;&nbsp;&nbsp;
       <img align="center" width="40px" height="40px" src="./icons/plus_67_40x40.png" alt="Plus" />&nbsp;&nbsp;&nbsp;
-      <img align="center" width="60px" height="57px"  src="./icons/redux_2_60x57px.png" alt="Redux" />  
+      <img align="center" width="100px" height="95px"  src="./icons/redux_3_100x95px.png" alt="Redux" />  
   </div>
 </div>
 
