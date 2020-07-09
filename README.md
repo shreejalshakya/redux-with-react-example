@@ -5,37 +5,15 @@ This is a sample project to implement Redux with react JS. A complete implementa
 Here's my notes. Hope this will help you. <br />
 
 <div align="center">
-  <style>
-    .icon {
-      height: 50px;
-      width: 50px;
-      border-radius: 50px;
-      object-fit: scale-down;
-    }
-    .icon:hover {
-      background-color: #f2f2f2;
-    }
-    .icon-link {
-      height: 50px;
-      width: 50px;
-      margin-right:10px;
-      border-radius: 50px;
-    }
-    .icon-link:hover, .icon-link:active, .icon-link:after,
-    .icon-link::selection, .icon-link:visited, .icon-link:link  {
-      text-decoration: none;
-      border-style: none;
-    }
-  </style>
   <p><strong>Follow me in:</strong></p>
-  <a class="icon-link" href="https://www.facebook.com/shreejal.shakya.1/" target="_blank">
-    <img class="icon" src="./icons/facebook_10_80x80px.png" alt="Facebook" />
+  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="https://www.facebook.com/shreejal.shakya.1/" target="_blank">
+    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/facebook_10_80x80px.png" alt="Facebook" />
   </a>
-  <a class="icon-link" href="www.linkedin.com/in/shreejal-shakya-51114a169" target="_blank">
-    <img class="icon" src="./icons/linkedin_10_80x80px.png" alt="LinkedIn" />
+  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="www.linkedin.com/in/shreejal-shakya-51114a169" target="_blank">
+    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/linkedin_10_80x80px.png" alt="LinkedIn" />
   </a>
-  <a class="icon-link" href="https://twitter.com/ShakyaShreejal/" target="_blank">
-    <img class="icon" src="./icons/twitter_7_80x65px.png" alt="Twitter" />
+  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="https://twitter.com/ShakyaShreejal/" target="_blank">
+    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/twitter_7_80x65px.png" alt="Twitter" />
   </a>
 </div>
 
@@ -742,36 +720,14 @@ Here, so simple, instead of logging for each action dispatcher it will log for a
 ---
 
 <div align="center">
-  <style>
-    .icon {
-      height: 50px;
-      width: 50px;
-      border-radius: 50px;
-      object-fit: scale-down;
-    }
-    .icon:hover {
-      background-color: #f2f2f2;
-    }
-    .icon-link {
-      height: 50px;
-      width: 50px;
-      margin-right:10px;
-      border-radius: 50px;
-    }
-    .icon-link:hover, .icon-link:active, .icon-link:after,
-    .icon-link::selection, .icon-link:visited, .icon-link:link  {
-      text-decoration: none;
-      border-style: none;
-    }
-  </style>
   <p><strong>Follow me in:</strong></p>
-  <a class="icon-link" href="https://www.facebook.com/shreejal.shakya.1/" target="_blank">
-    <img class="icon" src="./icons/facebook_10_80x80px.png" alt="Facebook" />
+  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="https://www.facebook.com/shreejal.shakya.1/" target="_blank">
+    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/facebook_10_80x80px.png" alt="Facebook" />
   </a>
-  <a class="icon-link" href="www.linkedin.com/in/shreejal-shakya-51114a169" target="_blank">
-    <img class="icon" src="./icons/linkedin_10_80x80px.png" alt="LinkedIn" />
+  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="www.linkedin.com/in/shreejal-shakya-51114a169" target="_blank">
+    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/linkedin_10_80x80px.png" alt="LinkedIn" />
   </a>
-  <a class="icon-link" href="https://twitter.com/ShakyaShreejal/" target="_blank">
-    <img class="icon" src="./icons/twitter_7_80x65px.png" alt="Twitter" />
+  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="https://twitter.com/ShakyaShreejal/" target="_blank">
+    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/twitter_7_80x65px.png" alt="Twitter" />
   </a>
 </div>
