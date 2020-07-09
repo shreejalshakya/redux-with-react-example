@@ -6,14 +6,14 @@ Here's my notes. Hope this will help you. <br />
 
 <div align="center">
   <p><strong>Follow me in:</strong></p>
-  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="https://www.facebook.com/shreejal.shakya.1/" target="_blank">
-    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/facebook_10_80x80px.png" alt="Facebook" />
+  <a style="height: 40px; width: 40px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" width="40px" height="40px" href="https://www.facebook.com/shreejal.shakya.1/" target="_blank">
+    <img style="height: 40px; width: 40px; border-radius: 50px; object-fit: scale-down;" width="40px" height="40px" src="./icons/facebook_50_40x40px.png" alt="Facebook" />
   </a>
-  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="www.linkedin.com/in/shreejal-shakya-51114a169" target="_blank">
-    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/linkedin_10_80x80px.png" alt="LinkedIn" />
+  <a style="height: 40px; width: 40px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" width="40px" height="40px" href="www.linkedin.com/in/shreejal-shakya-51114a169" target="_blank">
+    <img style="height: 40px; width: 40px; border-radius: 50px; object-fit: scale-down;" width="40px" height="40px" src="./icons/linkedin_50_40x40px.png" alt="LinkedIn" />
   </a>
-  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="https://twitter.com/ShakyaShreejal/" target="_blank">
-    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/twitter_7_80x65px.png" alt="Twitter" />
+  <a style="height: 40px; width: 40px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" width="40px" height="40px" href="https://twitter.com/ShakyaShreejal/" target="_blank">
+    <img style="height: 40px; width: 40px; border-radius: 50px; object-fit: scale-down;" width="40px" height="40px" src="./icons/twitter_59_49x40px.png" alt="Twitter" />
   </a>
 </div>
 
@@ -721,13 +721,13 @@ Here, so simple, instead of logging for each action dispatcher it will log for a
 
 <div align="center">
   <p><strong>Follow me in:</strong></p>
-  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="https://www.facebook.com/shreejal.shakya.1/" target="_blank">
-    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/facebook_10_80x80px.png" alt="Facebook" />
+  <a style="height: 40px; width: 40px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" width="40px" height="40px" href="https://www.facebook.com/shreejal.shakya.1/" target="_blank">
+    <img style="height: 40px; width: 40px; border-radius: 50px; object-fit: scale-down;" width="40px" height="40px" src="./icons/facebook_50_40x40px.png" alt="Facebook" />
   </a>
-  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="www.linkedin.com/in/shreejal-shakya-51114a169" target="_blank">
-    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/linkedin_10_80x80px.png" alt="LinkedIn" />
+  <a style="height: 40px; width: 40px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" width="40px" height="40px" href="www.linkedin.com/in/shreejal-shakya-51114a169" target="_blank">
+    <img style="height: 40px; width: 40px; border-radius: 50px; object-fit: scale-down;" width="40px" height="40px" src="./icons/linkedin_50_40x40px.png" alt="LinkedIn" />
   </a>
-  <a style="height: 50px; width: 50px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" href="https://twitter.com/ShakyaShreejal/" target="_blank">
-    <img style="height: 50px; width: 50px; border-radius: 50px; object-fit: scale-down;" src="./icons/twitter_7_80x65px.png" alt="Twitter" />
+  <a style="height: 40px; width: 40px; margin-right:10px; border-radius: 50px; text-decoration:none; border-style: none;" width="40px" height="40px" href="https://twitter.com/ShakyaShreejal/" target="_blank">
+    <img style="height: 40px; width: 40px; border-radius: 50px; object-fit: scale-down;" width="40px" height="40px" src="./icons/twitter_59_49x40px.png" alt="Twitter" />
   </a>
 </div>
