@@ -1,5 +1,7 @@
 # Redux with react
 
+<br /><br />
+
 <div>
   <div align="center">
       <img align="center" width="100px" height="89px" src="./icons/react_13_100x89px.png" alt="React" />&nbsp;&nbsp;&nbsp;
@@ -7,6 +9,8 @@
       <img align="center" width="100px" height="95px"  src="./icons/redux_3_100x95px.png" alt="Redux" />  
   </div>
 </div>
+
+<br /><br />
 
 This is a sample project to implement Redux with react JS. A complete implementation for a beginner to learn Redux and understand it with it's core working process.
 
