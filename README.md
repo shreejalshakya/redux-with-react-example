@@ -15,7 +15,7 @@ It becomes a difficult task to keep maintain the data flow of the large applicat
 
 ## Setup React App
 
-`$ create-react-app redux-example` <br />
+`$ create-react-app redux-with-react-example` <br />
 `$ cd redux-app` <br />
 
 To run: <br />
@@ -267,7 +267,7 @@ Whenever an action emitted, application reducers will call all combined reducers
 
 Example:
 
-```json
+```js
 {
   "reducer1": nextState,
   "reducer2": nextState
