@@ -1,0 +1,9 @@
+{
+  "printWidth": 90,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": false,
+  "endOfLine": "auto",
+  "eslintIntegration": true
+}
